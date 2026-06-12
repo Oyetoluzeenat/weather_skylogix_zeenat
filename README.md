@@ -1,5 +1,7 @@
 # SkyLogix — Weather Data Pipeline
 
+![SkyLogix Weather Data Pipeline](./weather_skylogix_pipeline.png)
+
 SkyLogix is a Python-based data pipeline designed to ingest, normalize, and store global weather metrics. The system fetches raw weather data from an external API, manages unstructured data stores, processes and normalizes the metrics, and loads the structured data into a relational database for downstream analytics.
 
 ## Tech Stack & Tools
